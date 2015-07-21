@@ -13,7 +13,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+*.vs
+*.git
+*.sln
 # Windows shortcuts
 *.lnk
 
@@ -41,3 +43,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+packages/
+bin/
+obj/
+*.config
+*.*.config
+*.csproj
+*.csproj.user
+*.csproj
+MvcDemo1.csproj.user
